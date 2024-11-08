@@ -18,7 +18,8 @@ linkedin_username: "denispatterson"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "jekyll-theme-hacker"
+#theme: "jekyll-theme-hacker"
+theme: "minima"
 
 rss: rss
 
